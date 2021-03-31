@@ -64,7 +64,7 @@ Website's first time visitors could want:
 ## Design
 ### Wireframes
 
-Are available here: Home Trips Contact (remember to update the files in pdf format)
+Are available here:  ![Home](assets/wireframes/home.jpg) ![Trips](assets/wireframes/trips.jpg) ![Contact](assets/wireframes/contact.jpg)
 
 ### Features
 #### Global
